@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pheodshas.github.io/sitemap
+Sitemap: https://pheodshas.github.io/app/sitemap
+Sitemap: https://pheodshas.github.io/assets/sitemap
+Sitemap: https://pheodshas.github.io/css/sitemap
+Sitemap: https://pheodshas.github.io/includes/sitemap
+Sitemap: https://pheodshas.github.io/item/sitemap
+Sitemap: https://pheodshas.github.io/src/sitemap
